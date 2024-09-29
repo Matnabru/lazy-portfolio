@@ -33,13 +33,6 @@ const Layout = ({ sections }: LayoutProps) => {
     const currentSectionIndex = selectedSectionIndices[selectedCategoryIndex];
     const currentSection = currentCategory.sections[currentSectionIndex];
 
-    // Handle scrolling on the right panel
-    const handleScroll = (event: React.UIEvent<HTMLDivElement>) => {
-        const { scrollTop, scrollHeight, clientHeight } = event.currentTarget;
-
-
-    };
-
     // Handle arrow key navigation and update selected section
     useEffect(() => {
         const handleKeyDown = (event: KeyboardEvent) => {
@@ -162,9 +155,8 @@ const Layout = ({ sections }: LayoutProps) => {
             </div>
             {/* Right panel: Dynamic content */}
             <div
-                className="lg:text-lg md:text-base lg:w-3/4 w-3/5 p-6 bg-black text-white overflow-y-auto border border-gray-700 rounded-md"
+                className="lg:text-lg md:text-base lg:w-3/4 w-3/5 p-6 bg-black text-white overflow-y-auto border border-gray-700 rounded-md "
                 ref={rightPanelRef}
-                onScroll={handleScroll}
             >
                 <div className='m-1'>
                     {selectedCategoryIndex === 0 ? (

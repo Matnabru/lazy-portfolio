@@ -20,12 +20,13 @@
     {
       "name": "Old portfolio",
       "year": 2023,
-      "demoUrl": "https://github.com/Matnabru/portfolioV2",
+      "demoUrl": "https://portfolio-v2-git-main-matnabrus-projects-38403b6b.vercel.app",
       "repoUrl": "https://github.com/Matnabru/portfolioV2",
       "content": [
         "This is my previous portfolio made in Next.js and Framer Motion.",
         "Although I'm not super advanced at frontend I can do at least some animations and make sure website is responsive :)",
-        "<img src='/images/css.jpg' alt='Goalsprint app' width='200' height='150'/>"
+        "<img src='/images/old_portfolio.png' alt='Old portfolio' width='200' height='150'/>",
+        "<img src='/images/css.jpg' alt='Old portfolio' width='200' height='150'/>"
       ],
       "technologies": [" Next.js |", " TailwindCSS |", " Framer Motion", " Typescript "]
     },
