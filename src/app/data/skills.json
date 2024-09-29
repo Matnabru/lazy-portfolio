@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "name": "Node.js",
+      "content": [
+        "Node.js is a <span class=\"text-green-500\">JavaScript runtime</span> built on Chrome's <span class=\"text-blue-500\">V8 engine</span> that allows for <span class=\"text-yellow-500\">server-side development</span>.",
+        "I use Node.js <span class=\"text-purple-500\">daily</span> in my work as a backend developer. It's my most used technology, enabling me to build <span class=\"text-red-500\">scalable</span>, <span class=\"text-green-500\">fast</span> applications, and work with <span class=\"text-yellow-500\">APIs</span>, <span class=\"text-blue-500\">databases</span>, and <span class=\"text-purple-500\">real-time applications</span>.",
+        "Node.js's <span class=\"text-green-500\">asynchronous</span> nature and its vast ecosystem of modules (like <span class=\"text-yellow-500\">Express.js</span>, <span class=\"text-blue-500\">Socket.io</span>, and <span class=\"text-purple-500\">Mongoose</span>) allow me to build projects efficiently. I've used Node.js for everything from <span class=\"text-red-500\">microservices</span> to <span class=\"text-yellow-500\">RESTful APIs</span> and <span class=\"text-purple-500\">GraphQL</span> services.",
+        "In terms of performance, Node.js’s event-driven architecture lets me handle <span class=\"text-red-500\">high concurrency</span> efficiently without the need for heavy threads or processes.",
+        "<img src='/images/nodejs.jpg' alt='Node.js logo' width='200' height='150'/>"
+      ],
+      "snippet": "node"
+    },
+    {
+      "name": "TypeScript",
+      "content": [
+        "TypeScript is a <span class=\"text-blue-500\">superset</span> of JavaScript that adds <span class=\"text-yellow-500\">static typing</span> to the language, making it easier to write <span class=\"text-green-500\">robust</span> and <span class=\"text-red-500\">maintainable</span> code.",
+        "I use TypeScript <span class=\"text-purple-500\">every day</span> in my work, especially with <span class=\"text-green-500\">Node.js</span> and <span class=\"text-red-500\">NestJS</span>. TypeScript helps me catch <span class=\"text-yellow-500\">errors at compile-time</span>, rather than at runtime, and provides strong <span class=\"text-blue-500\">type inference</span> that enhances code readability and maintainability.",
+        "With TypeScript, I can use <span class=\"text-green-500\">interfaces</span>, <span class=\"text-blue-500\">generics</span>, and <span class=\"text-purple-500\">enums</span> to structure my code better, making it easier to scale large applications. It is especially useful in backend development with frameworks like <span class=\"text-red-500\">NestJS</span> to enforce <span class=\"text-yellow-500\">modular architecture</span> and <span class=\"text-green-500\">dependency injection</span>.",
+        "TypeScript integrates seamlessly with modern JavaScript tools and frameworks, allowing me to work more <span class=\"text-green-500\">productively</span> and write more <span class=\"text-yellow-500\">consistent</span> and <span class=\"text-blue-500\">reliable</span> code across various projects.",
+        "<img src='/images/typescript.jpg' alt='TypeScript logo' width='200' height='150'/>"
+      ],
+      "snippet": "typescript"
+    },
+    {
+      "name": "NestJS",
+      "content": [
+        "NestJS is a <span class=\"text-blue-500\">progressive Node.js framework</span> built on top of <span class=\"text-green-500\">Express</span>, designed for building <span class=\"text-yellow-500\">scalable</span> and <span class=\"text-red-500\">maintainable server-side applications</span> using TypeScript.",
+        "I use NestJS regularly in projects for clients, leveraging its <span class=\"text-green-500\">modular architecture</span> and <span class=\"text-yellow-500\">dependency injection</span> to build robust back-end systems. It aligns well with <span class=\"text-red-500\">enterprise-level</span> applications due to its focus on <span class=\"text-blue-500\">scalability</span> and <span class=\"text-purple-500\">testability</span>.",
+        "NestJS provides a structured environment that allows me to use <span class=\"text-green-500\">TypeScript</span> and implement design patterns such as <span class=\"text-yellow-500\">controllers</span>, <span class=\"text-purple-500\">services</span>, and <span class=\"text-red-500\">middleware</span> efficiently. Its strong integration with tools like <span class=\"text-green-500\">GraphQL</span> and <span class=\"text-blue-500\">TypeORM</span> makes it ideal for building <span class=\"text-red-500\">API-driven applications</span>.",
+        "In client projects, I often utilize NestJS for building <span class=\"text-green-500\">microservices</span>, setting up <span class=\"text-yellow-500\">REST APIs</span>, and managing <span class=\"text-blue-500\">complex workflows</span>. Its out-of-the-box support for <span class=\"text-purple-500\">testing</span> and <span class=\"text-red-500\">validation</span> ensures that applications are not only scalable but also <span class=\"text-yellow-500\">reliable</span>.",
+        "<img src='/images/nestjs.jpg' alt='NestJS logo' width='200' height='150'/>"
+      ],
+      "snippet": "nestjs"
+    },    
+    {
+      "name": "Next.js",
+      "content": [
+        "Next.js is a <span class=\"text-green-500\">React framework</span> that allows for <span class=\"text-blue-500\">server-side rendering</span> and <span class=\"text-yellow-500\">static site generation</span>, making it ideal for building fast and scalable web applications.",
+        "While my main expertise lies in <span class=\"text-red-500\">back-end development</span>, I have also invested time in learning <span class=\"text-purple-500\">front-end technologies</span>, with a particular focus on Next.js. It bridges the gap between <span class=\"text-green-500\">back-end logic</span> and <span class=\"text-blue-500\">front-end presentation</span>, allowing me to build <span class=\"text-yellow-500\">full-stack applications</span>.",
+        "I appreciate how Next.js integrates features like <span class=\"text-green-500\">API routes</span> and <span class=\"text-blue-500\">SSR</span> (server-side rendering), which align well with my back-end experience. It gives me the flexibility to work on both the <span class=\"text-yellow-500\">client-side</span> and <span class=\"text-green-500\">server-side</span> of applications, making it easier to implement end-to-end solutions.",
+        "Although front-end development is not my primary focus, I enjoy using Next.js in my <span class=\"text-purple-500\">free time</span> to expand my skills and create seamless user experiences that connect well with the back-end systems I typically manage.",
+        "<img src='/images/nextjs.jpg' alt='Next.js logo' width='200' height='150'/>"
+      ],
+      "snippet": "nextjs"
+    },   
+    {
+      "name": "Kubernetes",
+      "content": [
+        "Kubernetes, often abbreviated as <span class=\"text-blue-500\">K8s</span>, is an open-source platform for <span class=\"text-green-500\">automating deployment</span>, <span class=\"text-yellow-500\">scaling</span>, and managing <span class=\"text-red-500\">containerized applications</span>.",
+        "I work with Kubernetes clusters regularly to manage <span class=\"text-green-500\">containerized services</span> and ensure applications are <span class=\"text-purple-500\">scalable</span> and <span class=\"text-yellow-500\">resilient</span>. By using Kubernetes, I can easily deploy and manage microservices in <span class=\"text-red-500\">distributed systems</span>.",
+        "Kubernetes makes it easier to scale applications across multiple environments, whether on-premise or in the cloud. With <span class=\"text-blue-500\">helm charts</span> and <span class=\"text-green-500\">CI/CD pipelines</span>, I automate the deployment of my services, ensuring smooth and <span class=\"text-purple-500\">efficient delivery</span>.",
+        "<img src='/images/kubernetes.png' alt='Kubernetes logo' width='200' height='150'/>"
+      ],
+      "snippet": "kubernetes"
+    },         
+    {
+      "name": "CI/CD",
+      "content": [
+        "CI/CD, which stands for <span class=\"text-green-500\">Continuous Integration</span> and <span class=\"text-blue-500\">Continuous Deployment</span>, is a crucial process in modern software development. It allows for <span class=\"text-red-500\">automated testing</span>, building, and deployment of code.",
+        "As a backend developer, I use CI/CD pipelines <span class=\"text-purple-500\">every day</span> to deploy services efficiently. By automating the testing and deployment processes, I ensure that updates to applications are <span class=\"text-green-500\">stable</span> and <span class=\"text-yellow-500\">reliable</span>, while minimizing manual intervention.",
+        "I work with tools like <span class=\"text-blue-500\">GitLab CI</span>, <span class=\"text-green-500\">GitHub Actions</span>, and <span class=\"text-red-500\">Jenkins</span> to configure pipelines that handle tasks such as <span class=\"text-yellow-500\">linting</span>, <span class=\"text-purple-500\">unit testing</span>, <span class=\"text-blue-500\">integration testing</span>, and <span class=\"text-red-500\">automatic deployments</span> to various environments.",
+        "<img src='/images/ci-cd-meme.jpg' alt='CI/CD pipeline' width='200' height='150'/>"
+      ],
+      "snippet": "ci-cd"
+    }, 
+    {
+      "name": "Git",
+      "content": [
+        "Git is a <span class=\"text-green-500\">distributed version control system</span> that allows teams to track changes, collaborate, and manage code efficiently. It's an essential tool in modern <span class=\"text-blue-500\">software development</span>.",
+        "I use Git <span class=\"text-purple-500\">every day</span> in my work, managing repositories, branches, and collaborating with teammates. It helps me maintain <span class=\"text-yellow-500\">code integrity</span> and keep track of <span class=\"text-red-500\">changes</span> across multiple environments and services.",
+        "Git’s features like <span class=\"text-blue-500\">branching</span>, <span class=\"text-green-500\">merging</span>, and <span class=\"text-yellow-500\">rebasing</span> allow me to manage project timelines and work on different features simultaneously without disrupting the <span class=\"text-purple-500\">main codebase</span>. Tools like <span class=\"text-red-500\">GitHub</span> and <span class=\"text-green-500\">GitLab</span> are integral to my workflow for <span class=\"text-yellow-500\">pull requests</span> and <span class=\"text-blue-500\">code reviews</span>.",
+        "By using Git, I can ensure that code is versioned correctly, conflicts are resolved efficiently, and my team stays in sync, which is critical for maintaining a <span class=\"text-red-500\">seamless development cycle</span>.",
+        "<img src='/images/git.jpg' alt='Git logo' width='200' height='150'/>"
+      ],
+      "snippet": "git"
+    },    
+    {
+      "name": "Python",
+      "content": [
+        "Python is a <span class=\"text-green-500\">high-level</span>, <span class=\"text-blue-500\">interpreted</span> language known for its <span class=\"text-yellow-500\">readability</span> and <span class=\"text-red-500\">simplicity</span>. It's often compared to <span class=\"text-purple-500\">pseudocode</span> because of its clean and concise syntax.",
+        "Although I don't use Python in my day-to-day job, I frequently turn to it for solving <span class=\"text-green-500\">algorithmic challenges</span> and performing <span class=\"text-yellow-500\">basic data science</span> tasks. Its extensive libraries like <span class=\"text-blue-500\">NumPy</span> and <span class=\"text-red-500\">Pandas</span> make it a great tool for <span class=\"text-purple-500\">data manipulation</span> and <span class=\"text-green-500\">analysis</span>.",
+        "I enjoy Python because it allows me to focus on solving problems without being bogged down by <span class=\"text-red-500\">complex syntax</span>. Its <span class=\"text-blue-500\">flexibility</span> and wide community support make it ideal for quick prototyping and solving <span class=\"text-green-500\">algorithmic problems</span> efficiently.",
+        "For me, Python feels almost like writing <span class=\"text-purple-500\">pseudocode</span>, which is one of the reasons I find it so <span class=\"text-yellow-500\">approachable</span> and <span class=\"text-green-500\">fun</span> to work with.",
+        "<img src='/images/python.jpg' alt='Python logo' width='200' height='150'/>"
+      ],
+      "snippet": "python"
+    }, 
+    {
+      "name": "Java",
+      "content": [
+        "Java is a <span class=\"text-green-500\">class-based</span>, <span class=\"text-blue-500\">object-oriented</span> programming language designed to have <span class=\"text-yellow-500\">fewer implementation dependencies</span>. It is known for its <span class=\"text-red-500\">write once, run anywhere</span> philosophy.",
+        "During my university studies, Java was my <span class=\"text-purple-500\">main technology</span>, and I gained extensive familiarity with core <span class=\"text-blue-500\">OOP principles</span> such as <span class=\"text-green-500\">polymorphism</span> and <span class=\"text-yellow-500\">encapsulation</span>. I enjoy working with <span class=\"text-red-500\">object-oriented programming</span> because it promotes <span class=\"text-green-500\">modularity</span> and <span class=\"text-blue-500\">code reusability</span>.",
+        "Java's strong type system and features like <span class=\"text-yellow-500\">inheritance</span> and <span class=\"text-green-500\">interfaces</span> helped me build robust, maintainable applications. I used it frequently to work on <span class=\"text-red-500\">multithreading</span>, <span class=\"text-purple-500\">data structures</span>, and <span class=\"text-blue-500\">algorithmic</span> problems during my academic years.",
+        "Although I primarily work with other technologies now, Java remains a <span class=\"text-yellow-500\">solid foundation</span> in my understanding of <span class=\"text-green-500\">software engineering</span> concepts and <span class=\"text-blue-500\">OOP principles</span>.",
+        "<img src='/images/java.webp' alt='Java logo' width='200' height='150'/>"
+      ],
+      "snippet": "java"
+    },    
+    {
+      "name": "Go",
+      "content": [
+        "Go is a <span class=\"text-blue-500\">programming language</span> mainly used for <span class=\"text-green-500\">backend</span> development.\nIt is <span class=\"text-red-500\">fast</span>, <span class=\"text-yellow-500\">simple</span>, <span class=\"text-purple-500\">powerful</span> and <span class=\"text-pink-500\">fun</span>.",
+        "For some programmers, its <span class=\"text-green-500\">simplicity</span> can also be its <span class=\"text-yellow-500\">downfall</span> as it does not have all the bells and whistles as some languages, such as JavaScript.\nOn the other hand, it is much <span class=\"text-red-500\">less bloated</span> and gives a lot of <span class=\"text-indigo-500\">freedom</span> to the programmer, very much like its big brother <span class=\"text-blue-500\">C</span>.",
+        "It is <span class=\"text-red-500\">fast</span> because it is <span class=\"text-green-500\">compiled</span> to <span class=\"text-blue-500\">machine code</span>.\nIt is <span class=\"text-purple-500\">powerful</span> because it is <span class=\"text-blue-500\">statically typed</span> and <span class=\"text-yellow-500\">concurrent</span>.\nIt is <span class=\"text-yellow-500\">simple</span> because it is <span class=\"text-green-500\">opinionated</span>, has a very <span class=\"text-purple-500\">complete</span> standard library and only contains <span class=\"text-red-500\">25 keywords</span>.",
+        "I have been using Go for about <span class=\"text-blue-500\">3 months</span> and so far I like it very much\n",
+        "<img src='/images/go.jpg' alt='Goalsprint app' width='200' height='150'/>"
+      ],
+      "snippet": "go"
+    },
+    {
+      "name": "C++",
+      "content": [
+        "C++ is a <span class=\"text-blue-500\">programming language</span> that builds upon <span class=\"text-green-500\">C</span> by adding features such as <span class=\"text-yellow-500\">object-oriented programming</span>, <span class=\"text-red-500\">templates</span>, and <span class=\"text-purple-500\">polymorphism</span>.",
+        "It was developed in the <span class=\"text-blue-500\">1980s</span> by <span class=\"text-yellow-500\">Bjarne Stroustrup</span> and is still widely used today in <span class=\"text-green-500\">operating systems</span>, <span class=\"text-purple-500\">game engines</span>, <span class=\"text-pink-500\">embedded systems</span>, and <span class=\"text-indigo-500\">high-performance applications</span>.",
+        "C++ is <span class=\"text-red-500\">fast</span> because it is <span class=\"text-green-500\">compiled</span> to <span class=\"text-blue-500\">machine code</span>, and it is <span class=\"text-yellow-500\">flexible</span> because it supports both <span class=\"text-green-500\">low-level memory management</span> and <span class=\"text-yellow-500\">high-level abstractions</span>. This makes it suitable for <span class=\"text-purple-500\">performance-critical applications</span> as well as complex software architecture.",
+        "One of the key strengths of C++ is its <span class=\"text-purple-500\">standard template library (STL)</span>, which provides ready-to-use <span class=\"text-blue-500\">data structures</span> and <span class=\"text-green-500\">algorithms</span> that greatly speed up development.",
+        "C++ is more <span class=\"text-yellow-500\">complex</span> than many modern languages, which can make it <span class=\"text-red-500\">difficult to learn</span>, but it provides an unparalleled level of <span class=\"text-purple-500\">control</span> over <span class=\"text-green-500\">system resources</span> and <span class=\"text-yellow-500\">performance</span>.",
+        "I have been using C++ since <span class=\"text-blue-500\">2015</span>, and I often rely on it for <span class=\"text-green-500\">performance-critical applications</span> and <span class=\"text-purple-500\">embedded systems</span> development.",
+        "C++ was my <span class=\"text-red-500\">1st</span> language to learn so it hold sentimental value in my heart.",
+        "<img src='/images/C++.jpg' alt='Goalsprint app' width='200' height='150'/>"
+      ],
+      "snippet": "cpp"
+    },    
+    {
+      "name": "HTML",
+      "content": [
+        "HTML is the <span class=\"text-red-500\">corner stone</span> of the world wide web. It is used to <span class=\"text-green-500\">organize</span> and categorize the content of a <span class=\"text-blue-500\">website</span>.",
+        "I have used HTML to build <span class=\"text-green-500\">static</span> websites, <span class=\"text-yellow-500\">dynamic</span> websites, <span class=\"text-purple-500\">responsive</span> websites, <span class=\"text-red-500\">multi-platform</span> software, <span class=\"text-pink-500\">progressive</span> web apps and <span class=\"text-blue-500\">native</span> mobile apps.",
+        "<img src='/images/html.jpg' alt='Goalsprint app' width='200' height='150'/>"
+      ],
+      "snippet": "html"
+    },
+    {
+      "name": "CSS",
+      "content": [
+        "CSS is the <span class=\"text-yellow-500\">paint</span> of the world wide web. It is used to <span class=\"text-green-500\">style</span> and <span class=\"text-red-500\">decorate</span> the content of a <span class=\"text-blue-500\">website</span>.",
+        "Although I have been using CSS for as long as I have been using HTML, I am not as familiar with it.",
+        "<img src='/images/css2.jpg' alt='Goalsprint app' width='200' height='150'/>"
+      ],
+      "snippet": "css"
+    },
+    {
+      "name": "JavaScript",
+      "content": [
+        "JavaScript is the <span class=\"text-blue-500\">cogs</span> of the world wide web. It is used to <span class=\"text-green-500\">power</span> the content of a <span class=\"text-red-500\">website</span> and make things <span class=\"text-yellow-500\">interactive</span>.",
+        "I have been using JavaScript for nearly <span class=\"text-blue-500\">5 years</span> and I am very familiar with it. I have used it to build all kinds of solutions, from <span class=\"text-green-500\">websites</span> to <span class=\"text-yellow-500\">mobile apps</span>, even desktop applications like <span class=\"text-purple-500\">video games</span>.",
+        "There is a joke about JavaScript that goes like this: <span class=\"text-red-500\">JavaScript</span> is so <span class=\"text-blue-500\">fast</span> that it can <span class=\"text-green-500\">render</span> a <span class=\"text-yellow-500\">progress bar</span> in <span class=\"text-pink-500\">1 second</span>.",
+        "People who tend to <span class=\"text-green-500\">like</span> JavaScript usually end up trying to write everything in JavaScript. This is called <span class=\"text-yellow-500\">JavaScript fatigue</span>.\nI personally prefer to use the right tool for the right job and tend to use JavaScript when <span class=\"text-green-500\">time</span> is of the essence and I want to quickly <span class=\"text-blue-500\">iterate</span> over a piece of software.\nIt's excellent for <span class=\"text-yellow-500\">prototyping</span> and <span class=\"text-green-500\">rapid development</span>.",
+        "<img src='/images/js.jpg' alt='Goalsprint app' width='200' height='150'/>"
+      ],
+      "snippet": "js"
+    },
+    {
+      "name": "Machine Learning (ML)",
+      "content": [
+        "Machine Learning is an exciting field where <span class=\"text-green-500\">algorithms</span> learn from <span class=\"text-blue-500\">data</span> to make predictions or decisions. I have a basic understanding of <span class=\"text-yellow-500\">ML models</span>, including concepts like <span class=\"text-red-500\">supervised learning</span> and <span class=\"text-purple-500\">unsupervised learning</span>, as well as common models like <span class=\"text-green-500\">linear regression</span> and <span class=\"text-blue-500\">decision trees</span>.",
+        "While I haven't explored this field further, I’m familiar with the foundational principles and how they are applied in <span class=\"text-yellow-500\">real-world scenarios</span>. However, I haven't yet dived deep into implementing complex models like <span class=\"text-red-500\">neural networks</span> or <span class=\"text-purple-500\">deep learning</span>.",
+        "For now, my focus remains on understanding the basics and how <span class=\"text-green-500\">ML models</span> fit into broader <span class=\"text-yellow-500\">data science</span> and <span class=\"text-red-500\">algorithmic challenges</span>.",
+        "<img src='/images/ml.jpg' alt='Basic ML Concept' width='200' height='150'/>"
+      ],
+      "snippet": "ml"
+    },
+    {
+      "name": "Agile",
+      "content": [
+        "Agile is a <span class=\"text-blue-500\">project management methodology</span> focused on <span class=\"text-green-500\">flexibility</span>, <span class=\"text-purple-500\">collaboration</span>, and <span class=\"text-yellow-500\">continuous improvement</span>.",
+        "It is particularly effective in <span class=\"text-red-500\">software development</span> where requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams.",
+        "I primarily use Agile to break down complex projects into smaller, <span class=\"text-green-500\">manageable sprints</span> that focus on <span class=\"text-yellow-500\">incremental progress</span> and <span class=\"text-blue-500\">quick feedback loops</span>.",
+        "Each sprint results in a <span class=\"text-purple-500\">working product increment</span>, ensuring that the team can quickly adapt to <span class=\"text-yellow-500\">changes in requirements</span> or <span class=\"text-green-500\">feedback from stakeholders</span>.",
+        "<img src='/images/agile.jpg' alt='Basic ML Concept' width='200' height='150'/>"
+      ],
+      "snippet": "agile"
+    }
+  ]
+}

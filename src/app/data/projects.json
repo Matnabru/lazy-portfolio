@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "name": "[WIP] Goalsprint",
+      "images": ["../images/findleads1.webp", "../images/findleads2.webp"],
+      "year": 2024,
+      "repoUrl": "https://github.com/Matnabru/goalsprint",
+      "content": [
+        "Goalsprint is a simple app for time and goals management created because no other app features daily routine with streaks, pomidoro timer and specific daily or monthly goals.",
+        "<img src='/images/goalsprint.png' alt='Goalsprint app' width='200' height='150'/>",
+        "App is still in development and does not have things like syncing data with the clour or advanced statistics."
+      ],
+      "technologies": [
+        " Next.js |",
+        " TailwindCSS |",
+        " Firebase |",
+        " Typescript "
+      ]
+    },
+    {
+      "name": "Old portfolio",
+      "year": 2023,
+      "demoUrl": "https://github.com/Matnabru/portfolioV2",
+      "repoUrl": "https://github.com/Matnabru/portfolioV2",
+      "content": [
+        "This is my previous portfolio made in Next.js and Framer Motion.",
+        "Although I'm not super advanced at frontend I can do at least some animations and make sure website is responsive :)",
+        "<img src='/images/css.jpg' alt='Goalsprint app' width='200' height='150'/>"
+      ],
+      "technologies": [" Next.js |", " TailwindCSS |", " Framer Motion", " Typescript "]
+    },
+    {
+      "name": "Banking System",
+      "year": 2021,
+      "repoUrl": "https://github.com/Matnabru/Java-Swing-Banking-System",
+      "content": [
+        "During my studies I was tasked to develop sample banking system in Java and Spring Boot that can process transactions and convert currencies.",
+        "I'm not a super fan of java but I like OOP and it does it's job with being useful in super complex enterprise systems.",
+        "<img src='/images/bankur.jpg' alt='Goalsprint app' width='200' height='150'/>"
+      ],
+      "technologies": [
+        " Java |",
+        " CSS |",
+        " Spring Boot |",
+        " PostgreSQL |",
+        " Gradle "
+      ]
+    },
+    {
+      "name": "Dexisnap",
+      "year": 2023,
+      "repoUrl": "https://github.com/Matnabru/dex-screener-be",
+      "content": [
+        "This is a cloud based project that creates snapshot of certain tokens from ethereum blockchain and store transactions along with price changes in doc-based database - Firestore.",
+        "<img src='/images/dexisnap-architecture.png' alt='Goalsprint app' width='200' height='150'/>",
+        "Sample architecture above. Cloud Scheduler trigger every so often to publish message on pubsub which triggers cloud functions to update DB state featuring latest transactions. ",
+        "<img src='/images/dexisnap.png' alt='Goalsprint app' width='200' height='150'/>",
+        "<img src='/images/dexisnap-chart.png' alt='Goalsprint app' width='200' height='150'/>"
+      ],
+      "technologies": [" Next.js |", " NestJS |", " Typescript |", " GraphQL |", " GCP |", " Pubsub |", " Google Cloud Functions"]
+    },
+    {
+      "name": "gei-stripe",
+      "year": 2023,
+      "repoUrl": "https://github.com/graphql-editor/graphql-editor-integrations",
+      "content": [
+        "gei-stripe is integration library on npm that allows users integrated with GraphQL Editor to sync Stripe data with MongoDB database using webhook which in result reduce possible request of the backend to stripe API which has hard limit of requests per seconds."
+      ],
+      "technologies": [" GraphQL |", " Node.js / Stucco.js |", " Typescript |", " Stripe"]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "name": "Node.js Wizard",
+      "company": "Aexol",
+      "date": "Jan 2022 - Now",
+      "title": "Back-End Developer (Node.js, NestJS, Typescript, JavaScript, Kubernetes, PostgreSQL, MongoDB)",
+      "content": [
+        "Outsorced to various clients <span class=\"text-blue-500\">building</span> wide variety of software mainly for for <span class=\"text-green-500\">construction, e-learning and consulting</span> industries.",
+        "Mostly using either <span class=\"text-yellow-500\">Node.js or NestJS</span> with GrahpQL."
+      ]
+    },
+    {
+      "name": "Salesforce Magnus",
+      "company": "Deloitte",
+      "date": "Jun 2021 - July 2021",
+      "title": "Salesforce developer intern (Javascript, Java, APEX, SOQL, SOSL, REST)",
+      "content": [
+        "Part of a <span class=\"text-red-500\">fast-paced team</span> as a salesforce developer intern on a competetive project from real world",
+        "It was a bootcamp type training which resulted in choosing the best projects made by interns to have opportunity for full time position in which I did well, but due to finishing only 1st year (compared to people with degrees or in their last semester) and non-remote policy got opportunity to apply once I finish second year."
+      ]
+    },
+    {
+      "name": "University Guildmaster",
+      "company": "University og Siedlce",
+      "date": "Dec 2020 - Nov 2021",
+      "title": "Instructional Assistant",
+      "content": [
+        "Helping students understand programming in <span class=\"text-pink-500\">Java</span> by participating in student-buddy initiative and providing paid tutoring to students from other universities."
+      ]
+    }
+  ]
+}

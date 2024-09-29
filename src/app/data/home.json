@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "content": [
+        "Hi, I'm <span class=\"text-red-600\">Mateusz Urbanek</span>!",
+        "A <span class=\"text-pink-500\">backend-focused</span> software engineer."
+      ]
+    },
+    {
+      "content": [
+        "Although my main focus is on backend, it's not that I cannot fulfill <span class=\"text-yellow-500\">full-stack</span> developer roles.",
+        "I highly enjoy programming and researching low level stuff that is connected to <span class=\"text-red-500\">software performance or statistics</span> and scratching my head while messing around with data from cryptocurrency exchanges."
+      ]
+    },
+    {
+      "content": [
+        "Another great interest of mine is <span class=\"text-green-500\">System Design</span>, I'm curious how big systems that connect millions and even billions of people work under the hood.",
+        "I'm a <span class=\"text-pink-500\">passionate</span> developer, always looking for new challenges and opportunities to learn."
+      ]
+    },
+    {
+      "content": [
+        "Nowadays, you can find me on <a href=\"https://www.linkedin.com/in/mateusz-urbanek-427559201/\" target=\"_blank\" class=\"text-purple-500 underline\">Linkedin</a>.",
+        " (I rarely use social media, so I might not reply immediately). ",
+        "You can always check out my work that I do at <a href=\"https://github.com/Matnabru\" target=\"_blank\" class=\"text-purple-500 font-bold underline\">GitHub</a>.",
+        "You can find my resume over here => <a href=\"/mateusz-urbanek-resume.pdf\" class=\"text-purple-500 font-bold underline\">resume</a>."
+      ]
+    },
+    {
+      "content": [
+        "<span class=\"text-indigo-500 \">Click</span> on a section on the left to learn more about my <span class=\"text-teal-500\">work</span> and past <span class=\"text-red-500\">experiences</span>.",
+        "You can also <span class=\"text-yellow-500\">navigate</span> through the sections using the <span class=\"text-blue-500 font-bold\">arrow keys</span>.",
+        "<img src='/images/intro.jpg' alt='My Image' width='200' height='150'/>"
+      ]
+    }
+  ]
+}

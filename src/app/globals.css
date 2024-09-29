@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.section-top-text {
+  display: inline-block;
+
+  margin-left: 1rem; 
+  padding-right: 0.5rem; 
+  vertical-align: middle; 
+  margin-top: -1.5rem;
+
+}
+
+.section-bottom-text {
+  display: flex; 
+  justify-content: flex-end;  
+  padding-right: 2rem; 
+}
+
+img {
+  @apply mx-auto w-full h-auto max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl mt-2;
+}
