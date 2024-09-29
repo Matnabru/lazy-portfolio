@@ -232,8 +232,8 @@ const Layout = ({ sections }: LayoutProps) => {
 
                     {/* Links */}
                     <a href="./cv/MateuszUrbanek_resume.pdf" className="text-blue-400 hover:underline">Resume</a>
-                    <a href="" className="text-blue-400 hover:underline">GitHub</a>
-                    <a href="your_linkedin_url" className="text-blue-400 hover:underline">LinkedIn</a>
+                    <a href="https://github.com/Matnabru" className="text-blue-400 hover:underline">GitHub</a>
+                    <a href="https://www.linkedin.com/in/mateusz-urbanek-427559201" className="text-blue-400 hover:underline">LinkedIn</a>
                 </div>
 
                 {/* Instructions */}
