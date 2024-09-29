@@ -6,8 +6,7 @@
         "Node.js is a <span class=\"text-green-500\">JavaScript runtime</span> built on Chrome's <span class=\"text-blue-500\">V8 engine</span> that allows for <span class=\"text-yellow-500\">server-side development</span>.",
         "I use Node.js <span class=\"text-purple-500\">daily</span> in my work as a backend developer. It's my most used technology, enabling me to build <span class=\"text-red-500\">scalable</span>, <span class=\"text-green-500\">fast</span> applications, and work with <span class=\"text-yellow-500\">APIs</span>, <span class=\"text-blue-500\">databases</span>, and <span class=\"text-purple-500\">real-time applications</span>.",
         "Node.js's <span class=\"text-green-500\">asynchronous</span> nature and its vast ecosystem of modules (like <span class=\"text-yellow-500\">Express.js</span>, <span class=\"text-blue-500\">Socket.io</span>, and <span class=\"text-purple-500\">Mongoose</span>) allow me to build projects efficiently. I've used Node.js for everything from <span class=\"text-red-500\">microservices</span> to <span class=\"text-yellow-500\">RESTful APIs</span> and <span class=\"text-purple-500\">GraphQL</span> services.",
-        "In terms of performance, Node.js’s event-driven architecture lets me handle <span class=\"text-red-500\">high concurrency</span> efficiently without the need for heavy threads or processes.",
-        "<img src='/images/nodejs.jpg' alt='Node.js logo' width='200' height='150'/>"
+        "In terms of performance, Node.js’s event-driven architecture lets me handle <span class=\"text-red-500\">high concurrency</span> efficiently without the need for heavy threads or processes."
       ],
       "snippet": "node"
     },
