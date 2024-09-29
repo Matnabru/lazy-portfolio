@@ -101,7 +101,7 @@ const Layout = ({ sections }: LayoutProps) => {
                         Home
                     </div>
                     <div className='p-1 lg:text-lg md:text-base text-xs'>
-                        Hello I'm <span className='text-teal-600'>Mateusz Urbanek</span>
+                        Hello I&apos;m <span className='text-teal-600'>Mateusz Urbanek</span>
                         <span className='hidden md:inline'>, software engineer from <span className='text-red-600 underline'>Poland</span></span>
                     </div>
                 </div>
