@@ -1,9 +1,19 @@
 {
   "data": [
     {
+      "name": "This one guy for everything",
+      "company": "Orange Poland",
+      "date": "May 2025 - Now",
+      "title": "Full-Stack Developer (AI Projects, Internal Tools, Node.js, Java, React, TypeScript, GCP, Terraform)",
+      "content": [
+        "Working in a specialized team focused on <span class=\"text-purple-500\">AI projects</span> and developing <span class=\"text-blue-500\">internal tools</span> for Orange Poland.",
+        "Building <span class=\"text-green-500\">full-stack solutions</span> that leverage modern technologies to improve internal processes and integrate AI capabilities into business workflows."
+      ]
+    },
+    {
       "name": "Node.js Wizard",
       "company": "Aexol",
-      "date": "Jan 2022 - Now",
+      "date": "Jan 2022 - Dec 2024",
       "title": "Back-End Developer (Node.js, NestJS, Typescript, JavaScript, Kubernetes, PostgreSQL, MongoDB)",
       "content": [
         "Outsorced to various clients <span class=\"text-blue-500\">building</span> wide variety of software mainly for for <span class=\"text-green-500\">construction, e-learning and consulting</span> industries.",
