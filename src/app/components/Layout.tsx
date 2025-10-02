@@ -155,7 +155,7 @@ const Layout = ({ sections }: LayoutProps) => {
             </div>
             {/* Right panel: Dynamic content */}
             <div
-                className="lg:text-lg md:text-base lg:w-3/4 w-3/5 p-6 bg-black text-white overflow-y-auto border border-gray-700 rounded-md "
+                className="lg:text-lg md:text-base lg:w-3/4 w-3/5 p-6 pb-24 bg-black text-white overflow-y-auto border border-gray-700 rounded-md "
                 ref={rightPanelRef}
             >
                 <div className='m-1'>

@@ -1,20 +1,23 @@
 {
   "data": [
     {
-      "name": "[WIP] Goalsprint",
-      "images": ["../images/findleads1.webp", "../images/findleads2.webp"],
+      "name": "BetBros Discord Bot",
       "year": 2024,
-      "repoUrl": "https://github.com/Matnabru/goalsprint",
+      "repoUrl": "https://github.com/Matnabru/betbros",
       "content": [
-        "Goalsprint is a simple app for time and goals management created because no other app features daily routine with streaks, pomidoro timer and specific daily or monthly goals.",
-        "<img src='/images/goalsprint.png' alt='Goalsprint app' width='200' height='150'/>",
-        "App is still in development and does not have things like syncing data with the clour or advanced statistics."
+  "BetBros is a Node.js Discord bot for custom and standard sports betting, lootboxes, inventory, and leaderboards.",
+  "This project was created because I enjoy watching football with friends, and we often argue about who will win—now we can finally find out who is the best predictor!",
+        "<strong>Feature Checklist:</strong>",
+        "<ul>\n<li>✅ Standard bets (odds imported from bookmakers)</li>\n<li>✅ Leaderboards</li>\n<li>✅ Weekly lootbox claim</li>\n<li>✅ User inventory (coins, lootboxes)</li>\n<li>✅ Bet placement and voting</li>\n<li>✅ Display active bets</li>\n<li>✅ Automatic bet resolver (webscraping)</li>\n<li>⬜ Custom bets with internal odds calculator</li>\n<li>⬜ Bonus lootbox for top weekly performer</li>\n<li>⬜ Channel and moderator role configuration</li>\n</ul>",
+  "<div style='text-align:center;'>\n<img src='/images/betbros_architecture.png' alt='BetBros Architecture' width='400' height='250' style='background:white;padding:16px;border-radius:8px;margin:auto;margin-bottom:4px;'/><span style='font-size:0.95em;color:#666;display:block;'>Architecture</span></div>",
+  "<div style='text-align:center;'>\n<img src='/images/betbros_betselection.png' alt='Bet selection feature' width='200' height='150' style='margin:auto;margin-bottom:4px;'/><span style='font-size:0.95em;color:#666;display:block;'>Betting Form</span></div>",
+  "<div style='text-align:center;'>\n<img src='/images/betbros_solvedbet.png' alt='Solve bet feature' width='320' height='150' style='margin:auto;margin-bottom:4px;'/><span style='font-size:0.95em;color:#666;display:block;'>Betting Resolved</span></div>",
+  "<div style='text-align:center;'>\n<img src='/images/betbros_bet.png' alt='Bet placement feature' width='200' height='150' style='margin:auto;margin-bottom:4px;'/><span style='font-size:0.95em;color:#666;display:block;'>Betting Logs</span></div>"
       ],
       "technologies": [
-        " Next.js |",
-        " TailwindCSS |",
-        " Firebase |",
-        " Typescript "
+        " Node.js |",
+        " discord.js |",
+        " MongoDB "
       ]
     },
     {
